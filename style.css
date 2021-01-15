@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-color {
+    background-color: rgba(255, 248, 240, 0.946);
+}
+
+h1 {
+    color: hsl(90, 76%, 60%);
+    font-size: 60px;
+}
+
+h5, h6, p {
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h4 {
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.button-extra {
+    background-color: hsl(90, 76%, 60%);
+    color: white;
+}
+
+.coloring {
+    background-color: rgba(149, 225, 205, 0.878);
+}
